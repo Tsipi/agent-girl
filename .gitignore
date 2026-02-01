@@ -34,3 +34,9 @@ ENV/
 # Environment variables
 .env
 .env.local
+
+# Git Credential Manager diagnostic logs
+gcm-diagnose.log
+*.gcm-diagnose.log
+
+# end of git ignore file
