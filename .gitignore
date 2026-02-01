@@ -38,3 +38,5 @@ ENV/
 # Git Credential Manager diagnostic logs
 gcm-diagnose.log
 *.gcm-diagnose.log
+
+# end of git ignore file
